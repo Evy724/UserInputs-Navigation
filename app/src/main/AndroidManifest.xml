@@ -9,21 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProcessingUserInputs">
-        <activity
-            android:name=".PostPage"
-            android:exported="false"
-            android:label="@string/title_activity_post_page"
-            android:theme="@style/Theme.ProcessingUserInputs" />
-        <activity
-            android:name=".ProfilePage"
-            android:exported="false"
-            android:label="@string/title_activity_profile_page"
-            android:theme="@style/Theme.ProcessingUserInputs" />
-        <activity
-            android:name=".Login"
-            android:exported="false"
-            android:label="@string/title_activity_login"
-            android:theme="@style/Theme.ProcessingUserInputs" />
+<!--        <activity-->
+<!--            android:name=".PostPage"-->
+<!--            android:exported="false"-->
+<!--            android:label="@string/title_activity_post_page"-->
+<!--            android:theme="@style/Theme.ProcessingUserInputs" />-->
+<!--        <activity-->
+<!--            android:name=".ProfilePage"-->
+<!--            android:exported="false"-->
+<!--            android:label="@string/title_activity_profile_page"-->
+<!--            android:theme="@style/Theme.ProcessingUserInputs" />-->
+<!--        <activity-->
+<!--            android:name=".Login"-->
+<!--            android:exported="false"-->
+<!--            android:label="@string/title_activity_login"-->
+<!--            android:theme="@style/Theme.ProcessingUserInputs" />-->
         <activity
             android:name=".MainActivity"
             android:exported="true"
