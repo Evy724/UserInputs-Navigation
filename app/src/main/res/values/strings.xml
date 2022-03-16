@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProcessingUserInputs</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_profile_page">ProfilePage</string>
+    <string name="title_activity_post_page">PostPage</string>
+</resources>
